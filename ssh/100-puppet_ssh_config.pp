@@ -2,7 +2,7 @@
 # Using puppet to make changes to my configuration file
 
 
-file { 'ect/ssh/ssh_config':
+file { 'etc/ssh/ssh_config':
 	ensure => present, 
 
 
