@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Explains what the code does
 <<<<<<< HEAD
 # Check if the fourth argument is empty
 if [ $
